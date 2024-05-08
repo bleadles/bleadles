@@ -3,21 +3,18 @@
 
 ### GitHub Stats
 
-<h1 align="center">Hi 👋, I'm bleadles</h1>
-<h3 align="center">A passionate developer from Poland</h3>
+<h1 align="left">Hi 👋, I'm bleadles</h1>
+<h3 align="left">A passionate developer from Poland</h3>
 
 - 🔭 I’m currently working on **dying**
 
 <h3 align="left">Connect with me:</h3>
+uliumeta@gmail.com
 <p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
-
-
-
-### Hi there 👋
+<p align="left"> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" alt="photoshop" width="40" height="40"/> </a> </p>
 
 <!--
 **bleadles/bleadles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
