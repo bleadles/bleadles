@@ -1,5 +1,5 @@
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=bleadles&style=flat-square&color=blue" alt=""></p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=bleadles&style=flat-square&color=blue" alt=""></p>
 
 ### Hi there 👋
 
