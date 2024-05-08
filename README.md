@@ -4,7 +4,7 @@
 ### GitHub Stats
 
 <h1 align="left">Hi 👋, I'm bleadles</h1>
-<h3 align="left">A passionate developer from Poland</h3>
+<h3 align="left">A passionate from Poland</h3>
 
 - 🔭 I’m currently working on **dying**
 
